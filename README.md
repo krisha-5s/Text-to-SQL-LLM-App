@@ -32,7 +32,7 @@ pipenv shell
 - What are the average marks class-wise?
 - Name of the student who scored the highest marks?
 - Name of the student who scored the lowest marks?
-- Name of the student with the second highest marks in DEVOPS?
+- Name of the student with the second highest marks in Machine Learning?
 - List students with second highest marks course-wise.
   
 ## 🎯 Future Enhancements
