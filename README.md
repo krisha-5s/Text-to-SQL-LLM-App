@@ -26,6 +26,9 @@ Make sure you have **Python 3.8+** installed. Then, run:
 pipenv install
 pipenv install streamlit langchain_groq
 pipenv shell
+
+# Run the Streamlit app:
+streamlit run app.py
 ```
 
 ## 📝 Sample Queries Tested
